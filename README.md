@@ -43,4 +43,4 @@ The project demonstrates fundamental authentication concepts and form validation
 ##  How to Run the Project
 
 1. Clone the repository:
-   
+   https://github.com/Naman767/Project_loginFormValidation_JS.git
